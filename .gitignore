@@ -13,4 +13,4 @@ bin/
 *.out
 
 # JetBrain files
-./.idea
+.idea/
